@@ -1,0 +1,15 @@
+body, html{
+    width: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #000;
+}
+
+#light-bulb{
+    position: relative;
+    width: 100px;
+    height: 180px;
+    background: url('../img/light_bulb-off.gif');
+    cursor: pointer;
+}
